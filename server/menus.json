@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Bakso",
+    "imageUrl": "https://img-global.cpcdn.com/recipes/62bc0149e02866d8/1200x630cq70/photo.jpg",
+    "kategori": "Makanan"
+  },
+  {
+    "title":"Mi Ayam",
+    "imageUrl" : "https://awsimages.detik.net.id/community/media/visual/2022/10/12/resep-mie-ayam-kecap_43.jpeg?w=1200",
+    "kategori": "Makanan"
+  },
+    {
+        "title":"Nasi Goreng",
+        "imageUrl" : "https://cdn1-production-images-kly.akamaized.net/LDRjBxjUH3gyrzEAUFrCi_XisTs=/0x148:1920x1230/800x450/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg",
+        "kategori": "Makanan"
+    },
+    {
+        "title":"Sate",
+        "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cq_3z2Peeh_wFHQGXq-Thc588gxIFVJeIw&s",
+        "kategori": "Makanan"
+    },
+    {
+        "title":"Soto",
+        "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sCe8JzEM8uj5AFk4PMddcBrW_q2nAw6u_w&s",
+        "kategori": "Makanan"
+    },
+    {
+        "title":"Es Teh",
+        "imageUrl" : "https://asset.kompas.com/crops/9iB_ruTEMU7otPYnbCNVng8zhrQ=/0x0:4939x3293/1200x800/data/photo/2022/09/25/63300cfd403f0.jpg",
+        "kategori": "Minuman"
+    },
+    {
+        "title":"Es Jeruk",
+        "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcSGU1VLBBSbsoo4RgnNPMTZbt88jFuO6hg&s",
+        "kategori": "Minuman"
+    },
+    {
+        "title":"Es Campur",
+        "imageUrl" : "https://asset.kompas.com/crops/mflGKlOsWa44Fb9Xj7KYlIIVQgw=/0x0:1000x667/1200x800/data/photo/2020/04/24/5ea2a3cba9ace.jpg",
+        "kategori": "Minuman"
+    },
+    {
+        "title":"Es Doger",
+        "imageUrl" : "https://asset.kompas.com/crops/zeb1BoiUqfOup6A37VaEQiYkS5U=/47x50:927x637/1200x800/data/photo/2023/03/26/642037c18d6af.jpg",
+        "kategori": "Minuman"
+    },
+    {
+        "title":"Es Cincau",
+        "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4Fovzgrn1JxhNQ4VjAmRrFtb7K63njCG6A&s",
+        "kategori": "Minuman"
+    },
+    {
+        "title":"Es Cendol",
+        "imageUrl" : "https://asset.kompas.com/crops/t3tdD3PwNMMiPxm7WKH-_qq4MmM=/0x0:1000x667/1200x800/data/photo/2023/03/12/640d6eac51567.jpg",
+        "kategori": "Minuman"
+    }
+]
